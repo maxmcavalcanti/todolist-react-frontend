@@ -1,0 +1,36 @@
+{
+  "name": "todo-list",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@djthoms/pretty-checkbox": "^3.1.0",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mdi/font": "^6.9.96",
+    "@mdi/js": "^6.9.96",
+    "@mdi/react": "^1.6.0",
+    "axios": "^0.27.2",
+
+    "phosphor-react": "^1.4.1",
+    "pretty-checkbox": "^3.0.3",
+    "pretty-checkbox-react": "^3.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-user-provider": "^1.0.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.3.0",
+    "vite": "^2.9.9"
+  }
+}
