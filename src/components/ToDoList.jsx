@@ -13,8 +13,10 @@ console.log(URLVite)
 export function ToDoList () {
   const [tasks, setTasks] = useState([])
  
+
   const { data, isFetching } = useAPI(URLVite)
-  
+
+
   useEffect(() => {
     if(data){
       setTasks(data)
@@ -35,12 +37,17 @@ export function ToDoList () {
   async function updateTask(task){
       try {
       await axios.put(`${URLVite}${task._id}`,task);
+      setTasks(tasks.map(t => t._id === task._id ? task : t))
+  
       } 
       catch (error) {
       console.log(error)
     }
+ 
+
     
   }
+
 
   async function deleteTask(taskToDeleteId){
 
