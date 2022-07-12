@@ -2,7 +2,7 @@
   <p>
     Gerenciador de tarefas<br>
     React.js - Node.js - MongoDB <br>
-   🚧 Em construção (80%) 🚧
+   🚧 Em construção (90%) 🚧
   </p>
 </h1>
 
@@ -32,7 +32,7 @@ Acesso à aplicação
 - Criação, exclusão e modificação de estado para concluído, informando o banco de dados ✔️
 
 ## 🔜 Funcionalidades a serem implementadas
-- Responsividade (Em construção 🚧
+- Responsividade ✔️
 - Alteração do texto da atividade adicionada (Em construção) 🚧
 
 
