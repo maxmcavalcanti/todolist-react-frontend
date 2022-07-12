@@ -30,9 +30,9 @@ Acesso à aplicação
 - Conexão com banco de dados (MongoDB) ✔️
 - Criação do backend em Node.js [Repositório do backend](https://github.com/maxmcavalcanti/todolist-nodejs-backend-) ✔️
 - Criação, exclusão e modificação de estado para concluído, informando o banco de dados ✔️
+- Responsividade ✔️
 
 ## 🔜 Funcionalidades a serem implementadas
-- Responsividade ✔️
 - Alteração do texto da atividade adicionada (Em construção) 🚧
 
 
