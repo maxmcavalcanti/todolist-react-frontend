@@ -2,7 +2,6 @@
   <p>
     Gerenciador de tarefas<br>
     React.js - Node.js - MongoDB <br>
-   🚧 Em construção (90%) 🚧
   </p>
 </h1>
 
@@ -31,9 +30,6 @@ Acesso à aplicação
 - Criação do backend em Node.js [Repositório do backend](https://github.com/maxmcavalcanti/todolist-nodejs-backend-) ✔️
 - Criação, exclusão e modificação de estado para concluído, informando o banco de dados ✔️
 - Responsividade ✔️
-
-## 🔜 Funcionalidades a serem implementadas
-- Alteração do texto da atividade adicionada (Em construção) 🚧
 
 
 ## 🔧 Ferramentas Utilizadas
