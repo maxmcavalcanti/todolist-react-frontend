@@ -3,7 +3,8 @@
 .toDoListContainer{
   display: flex;
   flex-direction: column;
-  width: 736px;
+  max-width: 736px;
+  width: 80%;
   margin: 91px auto;
 }
 .toDoListHeader{
@@ -128,4 +129,21 @@
   text-decoration: line-through;
   color: var(--gray-300);
   background: var(--gray-500)
+}
+
+@media  (max-width:460px) {
+  .toDoListHeader {
+    flex-direction: column-reverse;
+    gap: 0.5rem;
+  }
+
+  .headerCreatedTasks {
+    justify-content: space-around;
+    width: 220px;
+  }
+
+  .headerFinishedTasks {
+    width: 220px;
+    justify-content: space-around;
+  }
 }
