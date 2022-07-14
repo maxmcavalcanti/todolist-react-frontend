@@ -9,13 +9,10 @@
 
 O projeto tem como objetivo utilizar como base o [design disponibilizado no Figma](https://www.figma.com/file/rxqPolPRmWld7TX3g0lLih/ToDo-List-(Copy)?node-id=0%3A1),  pela [Rocketseat](https://www.rocketseat.com.br/), no programa Ignite - React.js e construir uma aplicação para controle de tarefas.
 
-## 🔗 Acesso a aplicação
+## Preview da aplicação
 
 <p align="center">
-<a href="https://todo-app-ignite.netlify.app/">
 <img src="https://user-images.githubusercontent.com/95191637/178337294-68bc119d-43a8-407b-a6c4-b3fa0aaae990.png" width="500"/><br>
-Acesso à aplicação
-</a>
 </p>
 
 
@@ -30,6 +27,7 @@ Acesso à aplicação
 - Criação do backend em Node.js [Repositório do backend](https://github.com/maxmcavalcanti/todolist-nodejs-backend-) ✔️
 - Criação, exclusão e modificação de estado para concluído, informando o banco de dados ✔️
 - Responsividade ✔️
+🔗 [Deploy Netlify](https://todo-app-ignite.netlify.app/) ✔️
 
 
 ## 🔧 Ferramentas Utilizadas
